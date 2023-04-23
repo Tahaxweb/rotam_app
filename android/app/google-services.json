@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "376003622544",
+    "project_id": "rotam-c0f03",
+    "storage_bucket": "rotam-c0f03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376003622544:android:42b78dd8043ae634ea4a15",
+        "android_client_info": {
+          "package_name": "com.example.rotam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376003622544-090us62dv5cjssq01oqtk063579f9veh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaxUdYHMYRdyAkgfFrIvy4UGxnddNYxtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376003622544-090us62dv5cjssq01oqtk063579f9veh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
